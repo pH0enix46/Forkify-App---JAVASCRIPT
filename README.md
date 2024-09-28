@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
+  <a href="#">
     <img src="./src/img/favicon.png" alt="Logo" height="80"  >
   </a>
   <h1 align="center">𝗙𝝾𝗿𝗸𝗶𝗳𝝲-𝝖𝗽𝗽</h1>
